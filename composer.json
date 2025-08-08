@@ -1,0 +1,6 @@
+{
+    "name": "makehaven/lending_library_borrower_role",
+    "type": "drupal-custom-module",
+    "description": "Assigns the borrower role when a specific webform is submitted.",
+    "license": "GPL-2.0-or-later"
+}

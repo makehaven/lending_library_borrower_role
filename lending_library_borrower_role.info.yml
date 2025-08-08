@@ -1,0 +1,9 @@
+name: 'Lending Library Borrower Role Assign'
+type: module
+description: 'Assigns the borrower role when a specific webform is submitted.'
+package: Custom
+core_version_requirement: ^10
+dependencies:
+  - drupal:webform
+  - drupal:user
+version: 1.0
