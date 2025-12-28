@@ -6,4 +6,4 @@ core_version_requirement: ^10 || ^11
 dependencies:
   - drupal:webform
   - drupal:user
-version: 1.0
+version: '1.0'
